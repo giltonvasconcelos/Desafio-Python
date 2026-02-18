@@ -24,4 +24,4 @@ Python: Linguagem de programação principal.
 ipywidgets: Para criar a interface de usuário interativa.
 IPython.display: Para controlar a exibição de elementos interativos no ambiente Jupyter/Colab.
 Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorar o projeto.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorar o projeto
