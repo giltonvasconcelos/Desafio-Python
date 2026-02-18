@@ -1,4 +1,3 @@
-readme_content = """
 # Sistema de Técnicas Bancárias Interativo
 
 ## Visão Geral
